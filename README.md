@@ -1,7 +1,8 @@
 ﻿# ERC20-Token-create
 the example contract to create ERC20 TOKEN  
-
-在ethereum網絡上建制`ERC20` token :blush:  
+如何發行以太坊代幣  
+  
+在ethereum網絡上發行`ERC20` token :blush:  
 ------
 1. 首先在[Remix](https://remix.ethereum.org/ "https://remix.ethereum.org/")右上`run` 標簽上使用`injected web3` environment  
 2. Deploy 並輸入初始化内容（toke名稱，發幣量，小數位數，簡稱)   
