@@ -13,5 +13,5 @@ the example contract to create ERC20 TOKEN
 |  decimalUnits |   uint8  |        18       |
 |  tokenSymbol  |  string  |      "PCA"      |
 
-3. 使用`Metamask`上面的賬號發佈  
+3. 使用[Metamask](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn,"Metamask")上面的賬號發佈 
 4. 到[Etherscan PCA token](https://ropsten.etherscan.io/token/0x3c31364dd58d5fff6f1d689e9bb91e9c3bdea8b4 "etherscan")上查看
